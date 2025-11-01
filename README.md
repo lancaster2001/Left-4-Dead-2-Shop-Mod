@@ -1,6 +1,6 @@
 ﻿# Left-4-Dead-2-Shop-Mod
 
-This mod id a fork that fixes the issue of multiplayer not workign properly
+This mod is a fork that fixes the issue of multiplayer not workign properly
 original mod:
 https://steamcommunity.com/sharedfiles/filedetails/?id=3572463501&searchtext=shopx
 
@@ -11,3 +11,4 @@ New features:
 - you now keep your points across rounds of survival.
 Bugs:
 - some player get multiple points rewarded for kills, maybe be due to quirks with L4D2 multiplayer connection
+
